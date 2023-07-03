@@ -2,8 +2,6 @@
 
 ## About the Exam
 
----
-
 ### For who is this exam meant? 
 
 The exam is for experienced IT professionals who can design, build, deploy, and manage any Elasticsearch solution.
