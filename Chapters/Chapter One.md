@@ -1,4 +1,22 @@
+<!-- omit from toc -->
 # Chapter One: Introduction
+
+- [About the Exam](#about-the-exam)
+  - [For who is this exam meant?](#for-who-is-this-exam-meant)
+  - [Exam Topics](#exam-topics)
+  - [Exam Format](#exam-format)
+  - [Preparing for the Exam](#preparing-for-the-exam)
+- [Elastic Stack Overview](#elastic-stack-overview)
+  - [Beats](#beats)
+  - [Logstash](#logstash)
+  - [Elasticsearch](#elasticsearch)
+  - [Kibana](#kibana)
+- [Elasticsearch Overview](#elasticsearch-overview)
+  - [Cluster](#cluster)
+  - [Nodes](#nodes)
+  - [Indices](#indices)
+  - [Cluster States](#cluster-states)
+
 
 ## About the Exam
 
