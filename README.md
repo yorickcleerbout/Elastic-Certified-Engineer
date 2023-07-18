@@ -9,3 +9,4 @@ The notes I created and used to study for the Elastic Certified Engineer exam! (
 | Chapter 3: Searching Data                 | [Chapter Three](./Chapters/Chapter%20Three.md) |
 | Chapter 4: Aggregating Data               | [Chapter Four](./Chapters/Chapter%20Four.md)   |
 | Chapter 5: Developing Search Applications | [Chapter Five](./Chapters/Chapter%20Five.md)   |
+| Chapter 6: Data Processing                | [Chapter Six](./Chapters/Chapter%20Six.md)     |
